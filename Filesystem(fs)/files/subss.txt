@@ -1,0 +1,1 @@
+Haii this is an example for write fileThis is used to append the files

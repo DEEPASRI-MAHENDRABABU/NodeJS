@@ -1,0 +1,3 @@
+This is a new file created by using writeFile 
+
+This is the appended dataThis is the appended data
