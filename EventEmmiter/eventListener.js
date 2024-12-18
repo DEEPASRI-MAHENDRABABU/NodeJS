@@ -10,7 +10,7 @@ var fun2=(msg)=>{
     console.log("Msg from fun2 :" +msg);
 }
 eventEmmiter.on('myEvent',fun1);
-eventEmmiter.once('myEvent',fun2); // once and on are used for same if you use once it will traigger the Listener once 
+eventEmmiter.once('myEvent',fun2); // once and on are used for same if you use once it will trigger the Listener once 
 //Remove Event
 eventEmmiter.removeListener('myEvent',fun1); //Removing fun1
 //emit
